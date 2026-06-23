@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Nate Buckholdt
 
-<!--
-**natebuckholdt/natebuckholdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MBA candidate at California State University San Marcos concentrating in Business Analytics.
 
-Here are some ideas to get you started:
+I use data to support business decisions through dashboards, predictive analytics, simulation, and optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills**
+- Excel: Solver, simulation, forecasting, PivotTables, dashboards
+- R: data cleaning, regression, classification, clustering, visualization
+- Power BI: dashboard development, KPI reporting, business storytelling
+- SQL: data querying and analysis
+- Business areas: analytics, supply chain, operations, sports, gaming, and entertainment
+
+**Featured Projects**
+- Supplier Delay Prediction — Used regression and logistic regression in R to identify purchase orders likely to be delayed.
+- Retail Sales Dashboard — Built a Power BI dashboard to track sales, profit, profit margin, customers, and regional performance.
+- Operations Simulation and Optimization — Used Excel simulation and Solver to evaluate operational decisions under uncertainty.
+
+**Contact**
+- LinkedIn: https://www.linkedin.com/in/nate-buckholdt/
+- Email: nbuckholdt@gmail.com
