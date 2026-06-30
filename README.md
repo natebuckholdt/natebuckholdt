@@ -13,7 +13,7 @@ I use data to support business decisions through dashboards, predictive analytic
 
 **Featured Projects**
 - Supplier Delay Prediction — Used regression and logistic regression in R to identify purchase orders likely to be delayed.
-- Retail Sales Dashboard — Built a Power BI dashboard to track sales, profit, profit margin, customers, and regional performance.
+- Air Quality Dashboard — Interactive Power BI dashboard analyzing air-quality conditions across San Diego-area monitoring sites.
 - Operations Simulation and Decision Analysis — Built a 1,000-trial Excel Monte Carlo simulation to compare boxed-lunch ordering policies and recommend the option that best balances profit, leftovers, lost sales, and financial risk.
 
 **Contact**
