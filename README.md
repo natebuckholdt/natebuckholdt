@@ -1,6 +1,6 @@
 ## Hi, I'm Nate Buckholdt
 
-MBA candidate at California State University San Marcos concentrating in Business Analytics.
+Recent MBA graduate at California State University San Marcos with a concentration in Business Analytics.
 
 I use data to support business decisions through dashboards, predictive analytics, simulation, and optimization.
 
